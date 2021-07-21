@@ -3,9 +3,7 @@
  * Все паршалы подключаются сюда.
  */
 
-// Стили для файла с примером HTML-фрагмента
-@import './example';
-
+// Подклчючаем паршалы после разделения style.css с Homework-10
 @import './base/common';
 
 @import './utils/variables';
